@@ -228,8 +228,4 @@ Import the Postman collection from `docs/postman_collection.json`
 
 ## 👨‍💻 Author
 
-**Frontend Developer Intern Assignment**
-
-## 📄 License
-
-MIT License
+**Mahendra Kumar**  
