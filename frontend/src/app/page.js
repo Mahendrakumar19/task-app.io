@@ -119,7 +119,12 @@ export default function Home() {
 
       <footer className="bg-gray-900 text-white py-8 mt-20">
         <div className="container mx-auto px-4 text-center">
-          
+          <p className="text-gray-400 text-sm">
+            Built with passion by Mahendra Kumar for the Frontend Developer Intern assignment
+          </p>
+          <p className="text-gray-500 text-xs mt-2">
+            Next.js • Express • MongoDB • TailwindCSS
+          </p>
         </div>
       </footer>
     </div>
