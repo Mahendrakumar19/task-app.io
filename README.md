@@ -2,6 +2,14 @@
 
 > A production-ready full-stack web application demonstrating modern web development practices.
 
+## 🌐 Live Demo
+
+- **Frontend**: [https://task-app-io.vercel.app/](https://task-app-io.vercel.app/)
+- **Backend API**: [https://task-app-io.onrender.com/](https://task-app-io.onrender.com/)
+- **GitHub Repository**: [https://github.com/Mahendrakumar19/task-app.io](https://github.com/Mahendrakumar19/task-app.io)
+
+> **Note**: Backend is hosted on Render's free tier and may take 30-60 seconds to wake up on first request.
+
 ## 👋 Introduction
 
 Hi! I'm Mahendra Kumar, and this is my submission for the Frontend Developer Intern position. I've built this project from scratch to showcase my understanding of modern web development, focusing on creating a scalable, secure, and user-friendly application.

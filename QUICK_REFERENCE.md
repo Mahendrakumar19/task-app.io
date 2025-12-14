@@ -1,6 +1,14 @@
 # Project Quick Reference
 
-## 🚀 Quick Start Commands
+## 🌐 Live Demo
+
+- **Frontend**: [https://task-app-io.vercel.app/](https://task-app-io.vercel.app/)
+- **Backend API**: [https://task-app-io.onrender.com/](https://task-app-io.onrender.com/)
+- **GitHub**: [https://github.com/Mahendrakumar19/task-app.io](https://github.com/Mahendrakumar19/task-app.io)
+
+> **Try it now!** No installation needed. Backend may take 30-60 seconds to wake up on first request (free tier).
+
+## 🚀 Quick Start Commands (Local Development)
 
 ```bash
 # Start Backend (Terminal 1)
@@ -18,6 +26,12 @@ npm run dev
 
 ## 📋 Test User Flow
 
+### Live Demo
+1. **Register**: [https://task-app-io.vercel.app/register](https://task-app-io.vercel.app/register)
+2. **Login**: [https://task-app-io.vercel.app/login](https://task-app-io.vercel.app/login)
+3. **Dashboard**: [https://task-app-io.vercel.app/dashboard](https://task-app-io.vercel.app/dashboard)
+
+### Local Development
 1. **Register**: http://localhost:3000/register
    - Username: testuser
    - Email: test@example.com
@@ -57,7 +71,6 @@ npm run dev
 ### Documentation
 - `README.md` - Project overview
 - `APPROACH.md` - Technical decisions & learnings
-- `EMAIL_TEMPLATE.md` - Submission email examples
 - `docs/API.md` - API documentation
 - `docs/SCALABILITY.md` - Production scaling guide
 - `docs/postman_collection.json` - API testing
